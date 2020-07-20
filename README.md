@@ -3,4 +3,4 @@
 </p>
 
 <h3 align="center">A young-dumb 🤓 front end developer from India 🇮🇳</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=anirudhbagri alt=rahuldkjain/> </p>
