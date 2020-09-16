@@ -35,7 +35,7 @@
 <br> <br> <br> <br> <br> <br> <br> <br> <br> 
 <!-- --- -->
 
-<details>
+<details open>
  <summary>🤖 <b>Coding stats</b>: </summary>
  
 <br>
