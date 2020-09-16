@@ -23,8 +23,21 @@
 
 ---
 
+
+<details>
+<summary>😇 <b>My GitHub stats</b>: </summary>
+
+<br>
+
+<img align="left" alt="shmulvad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anirudhbagri&show_icons=true&hide_border=true" />
+
+<br>
+</details>
+
+
 <details>
 <!--START_SECTION:waka-->
+
 **I'm a Night 🦉** 
 
 ```text
@@ -39,7 +52,8 @@
  <summary>🤖 <b>Coding stats</b>: </summary>
 
 <br>
-📊 **This Week I Spent My Time On** 
+
+**This Week I Spent My Time On** 📊 
 
 ```text
 💬 Programming Languages: 
@@ -55,16 +69,6 @@ PyCharm.                 3 hrs 25 mins       ████░░░░░░░�
 
 ```
 
-</details>
-
-<details>
-<summary>😇 <b>My GitHub stats</b>: </summary>
-
-<br>
-
-<img align="left" alt="shmulvad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anirudhbagri&show_icons=true&hide_border=true" />
-
-<br>
 </details>
 
 
