@@ -1,6 +1,82 @@
-<a href=https://twitter.com/anirudhbagri target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="anirudhbagri" height="20" width="20" /></a>
-<a href=https://linkedin.com/in/anirudhbagri target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="anirudhbagri" height="20" width="20" /></a>
-<a href=https://fb.com/anirudhbagri target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg alt="anirudhbagri" height="20" width="20" /></a></p>
-
 <h3 align="center">A young-dumb 🤓 full stack developer from India 🇮🇳</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=anirudhbagri alt=rahuldkjain/> </p>
+
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=anirudhbagri alt=anirudhbagri/> </p>
+
+### Hi there, I'm Anirudh Bagri
+
+## I am a developer, tech enthusiactic and a traveller. 
+
+### Connect with me:
+
+
+[<img align="left" alt="shmulvad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+[<img align="left" alt="shmulvad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="shmulvad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[<img align="left" alt="shmulvad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackOverflow]
+
+[<img align="left" alt="shmulvad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+
+<br />
+
+---
+
+<details>
+ <summary>🤖 <b>Coding stats</b>: </summary>
+
+<br>
+
+<!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    72 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.14% 
+🌆 Daytime    105 commits    ██████░░░░░░░░░░░░░░░░░░░   26.45% 
+🌃 Evening    104 commits    ██████░░░░░░░░░░░░░░░░░░░   26.2% 
+🌙 Night      116 commits    ███████░░░░░░░░░░░░░░░░░░   29.22%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                     8 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   43.48% 
+Dart                       5 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   28.47% 
+Java                       2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.6% 
+Haskell                    1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.62% 
+
+🔥 Editors: 
+VS Code                  11 hrs 51 mins      ██████████████░░░░░░░░░░░   59.23% 
+IntelliJ                 4 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   23.69% 
+PyCharm.                 3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.08% 
+
+```
+
+
+<!--END_SECTION:waka-->
+
+</details>
+
+<!-- --- -->
+
+<details>
+ <summary>😇 <b>My GitHub stats</b>: </summary>
+
+<br>
+
+<img align="left" alt="shmulvad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anirudhbagri&show_icons=true&hide_border=true" />
+
+</details>
+
+
+
+
+[twitter]: https://twitter.com/anirudhbagri
+[linkedin]: https://linkedin.com/in/anirudhbagri
+[instagram]: https://instagram.com/anirudhbagri
+[stackOverflow]: https://stackoverflow.com/users/7579549/anirudh-bagri
+[mail]: mailto:bagrianirudh@gmail.com
