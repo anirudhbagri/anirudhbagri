@@ -23,6 +23,17 @@
 
 ---
 
+<details open>
+ <summary>😇 <b>My GitHub stats</b>: </summary>
+
+<br>
+
+<img align="left" alt="shmulvad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anirudhbagri&show_icons=true&hide_border=true" />
+
+</details>
+
+<!-- --- -->
+
 <details>
  <summary>🤖 <b>Coding stats</b>: </summary>
  
