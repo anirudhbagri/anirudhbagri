@@ -36,7 +36,7 @@
 <div>
 <img align="left" alt="Anirudh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anirudhbagri&show_icons=true&hide_border=true" />
 <br><br>
-<a href="https://stackoverflow.com/users/7579549/anirudh-bagri"><img src="https://stackoverflow.com/users/flair/7579549.png" width="208" height="58" alt="profile for Anirudh Bagri at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Anirudh Bagri at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackexchange.com/users/10271260"><img src="https://stackexchange.com/users/flair/10271260.png" width="208" height="58" alt="profile for Anirudh Bagri on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Anirudh Bagri on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 <div>
 </details>
 
