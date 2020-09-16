@@ -4,12 +4,6 @@
 
 ### Hi there, I'm Anirudh Bagri
 
-
-<a href="https://stackoverflow.com/users/7579549" title="Stack Overflow">
-<div class="favicon favicon-stackoverflow" title="Stack Overflow"></div>
-<span class="score">1.4k</span>
-</a>
-
 ## I am a developer, tech enthusiactic and a traveller. 
 
 ### Connect with me:
