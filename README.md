@@ -23,10 +23,15 @@
 
 ---
 
-<details>
- <summary>🤖 <b>Coding stats</b>: </summary>
+<summary>😇 <b>My GitHub stats</b>: </summary>
 
 <br>
+
+<img align="left" alt="shmulvad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anirudhbagri&show_icons=true&hide_border=true" />
+
+<br>
+
+---
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
@@ -56,22 +61,7 @@ PyCharm.                 3 hrs 25 mins       ████░░░░░░░�
 
 ```
 
-
-<!--END_SECTION:waka-->
-
 </details>
-
-<!-- --- -->
-
-<details>
- <summary>😇 <b>My GitHub stats</b>: </summary>
-
-<br>
-
-<img align="left" alt="shmulvad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anirudhbagri&show_icons=true&hide_border=true" />
-
-</details>
-
 
 
 
