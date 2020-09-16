@@ -30,15 +30,17 @@
 ---
 
 <details open>
- <summary>😇 <b>My GitHub stats</b>: </summary>
+ <summary>😇 <b>My Stats</b>: </summary>
 
 <br>
-
+<div>
 <img align="left" alt="Anirudh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anirudhbagri&show_icons=true&hide_border=true" />
-
+<br><br>
+<a href="https://stackoverflow.com/users/7579549/anirudh-bagri"><img src="https://stackoverflow.com/users/flair/7579549.png" width="208" height="58" alt="profile for Anirudh Bagri at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Anirudh Bagri at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<div>
 </details>
 
-<br> <br> <br> <br> <br> <br> <br> <br> <br> 
+<br> <br> <br> <br> <br> <br> <br> <br>
 <!-- --- -->
 
 <details open>
