@@ -23,20 +23,10 @@
 
 ---
 
-
 <details>
-<summary>😇 <b>My GitHub stats</b>: </summary>
-
+ <summary>🤖 <b>Coding stats</b>: </summary>
+ 
 <br>
-
-<img align="left" alt="shmulvad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anirudhbagri&show_icons=true&hide_border=true" />
-
-<br>
-</details>
-
-
-<details>
-<!--START_SECTION:waka-->
 
 **I'm a Night 🦉** 
 
@@ -46,10 +36,6 @@
 🌃 Evening    104 commits    ██████░░░░░░░░░░░░░░░░░░░   26.2% 
 🌙 Night      116 commits    ███████░░░░░░░░░░░░░░░░░░   29.22%
 ```
-
-
-<details>
- <summary>🤖 <b>Coding stats</b>: </summary>
 
 <br>
 
