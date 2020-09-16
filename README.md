@@ -23,7 +23,7 @@
 
 ---
 
-<details open>
+<details>
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
@@ -32,18 +32,21 @@
 🌆 Daytime    105 commits    ██████░░░░░░░░░░░░░░░░░░░   26.45% 
 🌃 Evening    104 commits    ██████░░░░░░░░░░░░░░░░░░░   26.2% 
 🌙 Night      116 commits    ███████░░░░░░░░░░░░░░░░░░   29.22%
-
 ```
 
 
+<details>
+ <summary>🤖 <b>Coding stats</b>: </summary>
+
+<br>
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
 Python                     8 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   43.48% 
-Dart                       5 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   28.47% 
+Haskell                    5 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   28.47% 
 Java                       2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.6% 
-Haskell                    1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.62% 
+Dart                       1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.62% 
 
 🔥 Editors: 
 VS Code                  11 hrs 51 mins      ██████████████░░░░░░░░░░░   59.23% 
@@ -54,6 +57,15 @@ PyCharm.                 3 hrs 25 mins       ████░░░░░░░�
 
 </details>
 
+<details>
+<summary>😇 <b>My GitHub stats</b>: </summary>
+
+<br>
+
+<img align="left" alt="shmulvad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anirudhbagri&show_icons=true&hide_border=true" />
+
+<br>
+</details>
 
 
 [twitter]: https://twitter.com/anirudhbagri
