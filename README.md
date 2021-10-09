@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Anirudh Bagri
 
-## I am a developer, tech enthusiactic and a traveller. 
+## I am a developer, tech enthusiastic and a traveller. 
 
 ### Connect with me:
 
