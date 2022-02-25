@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Anirudh Bagri
 
-## I am a developer, tech enthusiastic and a traveller. 
+## I am a developer, tech enthusiastic and a traveller!
 
 ### Connect with me:
 
@@ -35,44 +35,6 @@
 <a href="https://stackexchange.com/users/10271260"><img src="https://stackexchange.com/users/flair/10271260.png" width="208" height="58" alt="profile for Anirudh Bagri on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Anirudh Bagri on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 <div>
 </details>
-
-<br> <br> <br> <br> <br> <br> <br> <br> 
-<!-- --- -->
-
-<details open>
- <summary>🤖 <b>Coding stats</b>: </summary>
- 
-<br>
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    72 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.14% 
-🌆 Daytime    105 commits    ██████░░░░░░░░░░░░░░░░░░░   26.45% 
-🌃 Evening    104 commits    ██████░░░░░░░░░░░░░░░░░░░   26.2% 
-🌙 Night      116 commits    ███████░░░░░░░░░░░░░░░░░░   29.22%
-```
-
-<br>
-
-**This Week I Spent My Time On** 📊 
-
-```text
-💬 Programming Languages: 
-Python                     8 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   43.48% 
-Haskell                    5 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   28.47% 
-Java                       2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.6% 
-Dart                       1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.62% 
-
-🔥 Editors: 
-VS Code                  11 hrs 51 mins      ██████████████░░░░░░░░░░░   59.23% 
-IntelliJ                 4 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   23.69% 
-PyCharm.                 3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.08% 
-
-```
-
-</details>
-
 
 [twitter]: https://twitter.com/anirudhbagri
 [linkedin]: https://linkedin.com/in/anirudhbagri
