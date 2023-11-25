@@ -1,4 +1,4 @@
-<h3 align="center">A young-dumb 🤓 full stack developer from India 🇮🇳</h3>
+<h3 align="center">A young-dumb-broke 🤓 full stack developer from India 🇮🇳</h3>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=anirudhbagri alt=anirudhbagri/> </p>
 
